@@ -15,28 +15,38 @@ export default function HomePage() {
       <Slider {...settings}>
         <div>
           <img
-            src="/images/hero1.jpg"
+            src="/images/hero1.png"
             alt="hero"
             style={{ display: "block", width: "100%", maxHeight: 500 }}
           />
         </div>
         <div>
           <img
-            src="/images/hero2.jpg"
+            src="/images/hero2.png"
             alt="hero"
             style={{ display: "block", width: "100%", maxHeight: 500 }}
           />
         </div>
         <div>
           <img
-            src="/images/hero3.jpg"
+            src="/images/hero3.png"
             alt="hero"
             style={{ display: "block", width: "100%", maxHeight: 500 }}
           />
         </div>
       </Slider>
-      <Box display="flex" justifyContent="center" sx={{ p: 4 }}>
-        <Typography variant="h2">Welcome to Vortex Snowgear</Typography>
+      <Box
+        display="flex"
+        justifyContent="center"
+        flexDirection="column"
+        textAlign="center"
+        sx={{ p: 4 }}
+      >
+        <Typography variant="h2">Welcome to Faux Ventures</Typography>
+        <br />
+        <Typography variant="h4">
+          Get prepped for your next adventure
+        </Typography>
       </Box>
     </>
   );

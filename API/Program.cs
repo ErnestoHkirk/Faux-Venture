@@ -107,7 +107,10 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+//  will serve client application by looking for it in it's default directory in wwwroot, index.html
 app.UseDefaultFiles();
+
+// allows static files to be utilized
 app.UseStaticFiles();
 
 app.UseCors(opt =>
@@ -120,6 +123,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// when the api encounters a route it is not aware of, will default to this route/controller. redirects back to index.html
 app.MapFallbackToController("Index", "Fallback");
 
 var scope = app.Services.CreateScope();

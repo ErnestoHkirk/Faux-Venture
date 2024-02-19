@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace API.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20240219043244_PostgresImages")]
-    partial class PostgresImages
+    [Migration("20240219173057_PostgresInitial")]
+    partial class PostgresInitial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -193,13 +193,13 @@ namespace API.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "0e6525f2-ee03-4a1c-9d29-dfe75619def4",
+                            Id = "4206c349-3f9d-4a4f-bf9f-50dd755f125b",
                             Name = "Member",
                             NormalizedName = "MEMBER"
                         },
                         new
                         {
-                            Id = "840ca184-604d-478f-a43d-6bd9802118e5",
+                            Id = "e7402a06-8ef4-4908-8535-8674fb5b8ccb",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });

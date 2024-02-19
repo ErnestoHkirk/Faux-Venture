@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for faux-venture on 2024-02-18T22:39:42-06:00
+# fly.toml app configuration file generated for faux-venture on 2024-02-19T11:43:57-06:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -6,11 +6,11 @@
 app = 'faux-venture'
 primary_region = 'ord'
 
-[env]
-  ASPNETCORE_URLS="http://+:8080"
-  
 [build]
   image = 'nomad1135/restore:latest'
+
+[env]
+  ASPNETCORE_URLS = 'http://+:8080'
 
 [http_service]
   internal_port = 8080

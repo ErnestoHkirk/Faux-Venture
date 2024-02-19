@@ -34,7 +34,7 @@ public static class DbInitializer
             {
                 new Product
                 {
-                    Name = "boots_rw_1",
+                    Name = "Venture Vista Hikewear",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 20000,
@@ -45,7 +45,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_rw_2",
+                    Name = "Trail-blaze Kicks",
                     Description = "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
                     Price = 15000,
                     PictureUrl = "/images/products/boots_rw_2.png",
@@ -55,7 +55,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_rw_3",
+                    Name = "Element Treads",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 18000,
@@ -66,7 +66,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_sw_1",
+                    Name = "Hike-Flexes",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
                     Price = 30000,
@@ -77,7 +77,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_sw_2",
+                    Name = "Crown Treads",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 25000,
@@ -88,7 +88,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_sw_3",
+                    Name = "All Terrain",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 12000,
@@ -99,7 +99,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_ww_1",
+                    Name = "4x4",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1000,
@@ -110,7 +110,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_ww_2",
+                    Name = "6x6",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 100,
@@ -121,7 +121,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_ww_3",
+                    Name = "Columbas",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1100,
@@ -132,7 +132,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "boots_ww_4",
+                    Name = "Real Kicks",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 150,
@@ -143,7 +143,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_1",
+                    Name = "Territory",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 400,
@@ -154,7 +154,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_2",
+                    Name = "Wanderlust",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 600,
@@ -165,7 +165,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_3",
+                    Name = "Roam",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 350,
@@ -176,7 +176,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_4",
+                    Name = "Adventure Pak",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 300,
@@ -187,7 +187,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_5",
+                    Name = "Trail Trek Alpha",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 100,
@@ -198,7 +198,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_rw_6",
+                    Name = "Explore Canada",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
                     Price = 80,
@@ -209,7 +209,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_sw_1",
+                    Name = "Tech Trek",
                     Description = "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
                     Price = 170,
                     PictureUrl = "/images/products/carriers_sw_1.png",
@@ -219,7 +219,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_sw_2",
+                    Name = "Roam Ranger",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 140,
@@ -230,7 +230,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_ww_1",
+                    Name = "Hike Haven",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 110,
@@ -241,7 +241,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_ww_2",
+                    Name = "Journey Jack",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 110,
@@ -252,7 +252,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "carriers_ww_3",
+                    Name = "Wander-Back",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 220,
@@ -263,7 +263,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "hats_rw_1",
+                    Name = "Full Set",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 130,
@@ -274,7 +274,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "hats_sw_1",
+                    Name = "Visor",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 140,
@@ -285,7 +285,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "hats_sw_2",
+                    Name = "Protected",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 170,
@@ -296,7 +296,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "hats_ww_1",
+                    Name = "Warming",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 160,
@@ -307,7 +307,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_1",
+                    Name = "Scrapers Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 40,
@@ -318,7 +318,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_2",
+                    Name = "Cranks Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 60,
@@ -329,7 +329,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_3",
+                    Name = "Pliers Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 80,
@@ -340,7 +340,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_4",
+                    Name = "Time Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 100,
@@ -351,7 +351,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_5",
+                    Name = "Spike Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 110,
@@ -362,7 +362,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_rw_6",
+                    Name = "Hatchet Jack",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 220,
@@ -373,7 +373,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_1",
+                    Name = "Shovel Collection",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 200,
@@ -384,7 +384,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_2",
+                    Name = "Rangefinder Group",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 180,
@@ -395,7 +395,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_3",
+                    Name = "Cross Pliers",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 150,
@@ -406,18 +406,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_4",
-                    Description =
-                        "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-                    Price = 110,
-                    PictureUrl = "/images/products/tools_sw_4.png",
-                    Brand = "Samson",
-                    Type = "Tools",
-                    QuantityInStock = 100
-                },
-                new Product
-                {
-                    Name = "tools_sw_5",
+                    Name = "Escape Set",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 120,
@@ -428,7 +417,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_6",
+                    Name = "Firestarters v2",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1100,
@@ -439,7 +428,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_sw_7",
+                    Name = "First Aid Kit",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 110,
@@ -450,7 +439,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_1",
+                    Name = "Pointy Objects",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1600,
@@ -461,7 +450,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_2",
+                    Name = "Tools of the Trade",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 900,
@@ -472,7 +461,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_3",
+                    Name = "Thermus & Warmer",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1100,
@@ -483,7 +472,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_4",
+                    Name = "Knicknac Store",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1700,
@@ -494,7 +483,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_5",
+                    Name = "Doodads Cluster",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1600,
@@ -505,7 +494,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_6",
+                    Name = "Gizmos Assemblage",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1500,
@@ -516,7 +505,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_7",
+                    Name = "Strong Weights",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1600,
@@ -527,7 +516,7 @@ public static class DbInitializer
                 },
                 new Product
                 {
-                    Name = "tools_ww_8",
+                    Name = "Beacon Kit",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 1200,
